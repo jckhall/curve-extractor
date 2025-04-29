@@ -1,0 +1,7 @@
+pydicom
+numpy
+pillow
+matplotlib
+PySide6
+python-gdcm
+py2app
